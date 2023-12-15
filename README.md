@@ -4,7 +4,8 @@
 
 <!-- Surface Brief Reference -->
 <p>For a surface brief, check out <a href="https://detailed-anlaysis.my.canva.site/social-media#page-6" target="_blank">this site</a>.</p>
-
+<h3>✍🏼 Tracking of all the files using git </h3>
+<p>All the files are tracked with Git to keep an eye on the changes every time a modification is made.DVC can be used for data tracking but the data isn't upgrading rather its a constant data so DVC isn't used in this projcet.</p>
 <!-- Problem Statement -->
 <h3>❓ Problem Statement</h3>
 
