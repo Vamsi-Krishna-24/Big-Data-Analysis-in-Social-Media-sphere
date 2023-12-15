@@ -2,6 +2,9 @@
 <h1>📊 Data Analysis in Social Media Sphere</h1>
 <h2>🚀 A Case Study of a Startup Social Media Platform</h2>
 
+<!-- Surface Brief Reference -->
+<p>For a surface brief, check out <a href="https://detailed-anlaysis.my.canva.site/social-media#page-6" target="_blank">this site</a>.</p>
+
 <!-- Problem Statement -->
 <h3>❓ Problem Statement</h3>
 
@@ -62,7 +65,7 @@ matplotlib</code>
 <!-- Post-Installation Operations -->
 <h3>🚀 Post-Installation Operations</h3>
 
-<p>After all the libraries are installed in the respective virtual environment, data operations such as data cleaning, filling the data, etc., are performed.</p>
+<p>After all the libraries are installed in the respective virtual environment, data operations such as data cleaning, filling the data, etc., are performed. Check out the <code>data</code> folder for the data used in this project and the <code>pandas</code> folder to see how the data is handled.</p>
 
 <!-- Resources & References -->
 <h3>📚 Resources & References</h3>
@@ -79,17 +82,26 @@ matplotlib</code>
 <!-- First Key Insight -->
 <h4>🔍 First Key Insight: Analyzed their ALGORITHM analysis from big data</h4>
 
-<img src="https://i.ibb.co/w6c3MWf/your-image.jpg" alt="The content categorized according to the views" width="400" />
+<img src="https://i.ibb.co/w6c3MWf/your-image.jpg" alt="The content categorized according to the views" width="800" />
 
 <p>The primary focus is on enhancing user experience by providing users with content aligned with their preferences and desires, particularly the most viewed content across the platform. This dual strategy not only improves individual user experiences but also contributes to creating a shared digital space where personal choices and collective appeal intersect. For instance, if a user frequently watches technology-related content, the algorithm prioritizes and promotes more technology-related content, along with other popular content. This exemplifies a crucial aspect of how the algorithm operates in the digital space.</p>
 
 <!-- Second Key Insight -->
 <h4>📉 Second Key Insight:</h4>
 
-<img src="https://i.postimg.cc/5j73Jnn7/your-second-image.jpg" alt="Your Second Image Description" width="400" />
+<img src="https://i.postimg.cc/5j73Jnn7/your-second-image.jpg" alt="Your Second Image Description" width="800" />
 
 <p>In dissecting the ebb and flow of user engagement, a distinctive pattern emerges. From April to July, we witnessed a robust surge, maintaining momentum through a stable July to October. However, a noteworthy shift occurred from October to January, revealing a gradual 15% decline. Delving deeper, the subsequent January to April interval witnessed a further 10% dip, culminating in an overall reduction of 25%.</p>
 
 <p>This intriguing trend aligns with a plausible explanation: the holiday season effect. Users, potentially occupied with festivities, showed a natural dip in mobile usage and subsequent social media engagement. Understanding this nuanced rhythm unveils a strategic opportunity: crafting targeted campaigns and features to reignite engagement during post-holiday phases, ensuring a resilient bounce-back for sustained growth.</p>
+
+<!-- Data and Pandas Folders -->
+<p>Check out the <code>data</code> folder for the data used here, and the <code>pandas</code> folder to see how the data is handled.</p>
+
+<!-- Tableau for Visualization -->
+<h3>📊 Tableau for Visualization</h3>
+
+<p>Tableau is utilized for effective visualization of the data trends and patterns. The visualizations provide a comprehensive understanding of the insights derived from the social media platform data.</p>
+
 
 
